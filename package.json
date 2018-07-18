@@ -34,7 +34,7 @@
         "url": "https://github.com/rtheunissen"
     },
     "dependencies": {
-        "axios": "^0.16",
+        "axios": "^0.18.0",
         "lodash": "^4.17",
         "moment": "^2.18.1",
         "validator": "^8.1.0",
@@ -42,7 +42,7 @@
     },
     "devDependencies": {
         "array-permutation": "^0.2.0",
-        "axios": "^0.16",
+        "axios": "^0.18.0",
         "babel-cli": "^6.26.0",
         "babel-core": "^6.26.0",
         "babel-plugin-autobind-class-methods": "^5.0.1",
